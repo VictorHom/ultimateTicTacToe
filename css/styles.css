@@ -1,0 +1,144 @@
+.tttbox{
+	color: #363377;
+	background: #ffa863;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+.game{
+	width: 162px;
+	height: 162px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	float:left;
+}
+
+#square0{
+	border-bottom: black 1px solid;
+	border-right: black 1px solid;
+
+}
+#square1{
+	border-right: black 1px solid;
+	border-bottom: black 1px solid;
+
+}
+#square2{
+	border-bottom: black 1px solid;
+
+}
+#square3{
+	border-right: black 1px solid;
+	border-bottom: black 1px solid;
+}
+#square4{
+	border-right: black 1px solid;
+	border-bottom: black 1px solid;
+
+}
+#square5{
+	border-bottom: black 1px solid;
+
+}
+#square6{
+	border-right: black 1px solid;
+
+}
+#square7{
+	border-right: black 1px solid;
+}
+#square8{
+
+}
+
+.minigameSeparator{
+
+}
+
+.onthisgame{
+    border: 1px solid #333333;
+}
+
+body{
+	padding-left: 7%;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	padding-bottom: 20px;
+	border: 1px solid transparent;
+}
+
+#title{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	margin-right: 40px;
+	font-size: 200%;
+	text-decoration: underline;
+	margin-bottom: 30px;
+}
+
+#titleunderline{
+/*	border-bottom: thick solid #ff0000;
+	width: 100px;*/
+}
+
+#cross, #circle{
+	padding-left: 13px;
+    color: #fff;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+#container{
+	width: 50%;
+    margin: 0 auto;
+}
+
+.white-popup {
+  position: relative;
+  background: #8FFFDD;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+#gamehelp{
+	width: 50px;
+	float: left;
+}
+
+#playerturn{
+/*	width: 70px;*/
+/*	margin: auto;*/
+	padding-bottom: 30px;
+	padding-top: 30px;
+	margin: 0;
+}
+
+.gamenumber{
+
+}
+
+.content {
+    width: 930px;
+    margin: 35px auto;
+} 
+
+
+#footer{
+	height:20px;
+	width: 100%;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
